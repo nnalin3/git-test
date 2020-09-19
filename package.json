@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "\u001b[A\u001b[B\u001b[C\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C) index.html",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Rafael",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(\u0016https://github.com/nnalin3/git-test.git)"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
